@@ -1,2 +1,5 @@
 # biorreactores
-Scripts de matlab para resolver un biorreactor fed-batch con alimentación constante. Caso práctico en la asignatura de Procesos Biotecnológicos del Grado en Biotecnología de la Universidad de Cádiz.
+Scripts de matlab para resolver distintos modelos de biorreactores. Caso práctico en la asignatura de Procesos Biotecnológicos del Grado en Biotecnología de la Universidad de Cádiz.
+
+Reactor fed-batch con alimentación constante:
+
